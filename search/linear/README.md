@@ -1,0 +1,1 @@
+Linear search is a very simple search alg. In this type of search, a sequential search is made over all items one vy one. Every items is checked and if match founds then that particular item is returned otherwise search continues till the end of the data collection.
